@@ -1,0 +1,5 @@
+La ruta POST /reporte recibe información enviada por el usuario.
+
+La ruta responde con un mensaje indicando que el reporte fue recibido.
+
+Esta ruta puede servir para enviar reportes o sugerencias en una aplicación comunitaria.
